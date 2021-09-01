@@ -1,0 +1,1 @@
+# collecting_treasure_device_compatible
